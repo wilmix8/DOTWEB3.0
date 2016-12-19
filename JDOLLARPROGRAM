@@ -1,0 +1,205 @@
+JDOLLAR-Module9
+===============
+
+SYNTAX  for  Logic - JDollar
+------------------------------------------
+
+
+<JDOLLAR>
+
+@JRemote
+
+
+
+
+
+
+
+<%
+
+<!  Logic  of  JDollar program  !>
+%>
+
+
+</JDOLLAR>
+
+
+
+Program1:  Add  Two  nos  to  Arraylist  and  exchange two  nos.
+=========
+
+
+
+<JDOLLAR>
+
+@JRemote
+
+<%
+
+
+
+
+
+<%
+public  class  abc1
+{
+public void  JDOLLAR-Main( )
+{
+
+
+<AList> a  =   <NEW>  <AList>(); //simillar  to  Arraylist  in  java
+a.add(1000);
+a.add(2000);
+logic(Integer.<PARSE>Int(a.get(0).StringConvert()),Integer.<PARSE>Int(a.get(1).StringConvert()));
+
+}
+
+
+public Shared  void  logic(int  x ,int  y)
+
+{
+
+
+
+
+ 
+JDollar.Writeln("Initial value of x: "+x+" and y: "+y);
+ 
+x = x+y;
+y = x-y;
+x = x-y;
+ 
+JDollar.Writeln("After swapping value of x: "+x+" and y: "+y);
+}
+
+
+
+
+
+
+
+}
+
+%>
+
+</JDOLLAR>
+
+
+Output:
+---------
+
+Initial value of x: 1000 and y: 2000
+After swapping value of x: 2000 and y: 1000
+
+
+Professionals  should   practise  the logic  program
+
+a)  Fibnoccai  series  of  nos
+
+b)  To  compare    whether   the  given  no  is  found  or  not?
+
+c)  To  Print   PYRAMID  Diagram  
+
+d)  Write   a  program    to   store   employee  details in   Linked  List
+
+and  Perform  manipulation  like  A) ADD  B)   DELETE C)  UPDATE 
+
+D)  SELECT  ALL
+
+Note:  Module1   for  Jdollar  is   called  as  JDollar1  also  has   same  Advanced concepts
+
+simillar  to  CDollar.
+
+JDollar  Advanced   Concepts
+=====================
+
+Like  CDollar   , JDollar   also  has   same   Advanced  Concepts.....
+
+Program-1:
+=========
+
+
+<JDollar>
+
+<IMPORT> 
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+          public void main()
+        {
+ 
+ LArray root <NEW> LArray("root");
+ 
+ <AList>  ar <NEW>  <AList>();
+ 
+ 
+ for  (int  i=0;i<=1000;i++)
+ 
+ ar.add(i);
+ 
+ root.add("wilmix");
+ root.add("jemin");
+ root.add("shalom");
+ root.add("1010");
+ root.add("101");
+ root.add("201");
+ root.add(ar.StringConvert());
+ root.add("100000000");
+ //print the tree's size and contents
+ 
+ root.printTree();
+
+ 
+}
+
+
+}
+
+
+
+
+JDOLLAR-MODULE10
+=================
+<Jdollar>
+
+<Serialize>
+
+<code>
+public  class  view2  
+
+{
+
+public void  JDOLLAR-Main( ) throws  IO<EXE>
+
+{
+
+view2  db11  =  <NEW>   view2();
+
+Print.Println("view details","View the  page");
+
+
+}
+
+}
+
+
+
+
+</code>
+</Jdollar>
+
+Output:
+======
+
+view details View the  page
+
+
+Note:  Module2   for  Jdollar  is   called  as  JDollar2   also  has   same  Advanced concepts
+
+simillar  to  CDollar.
+
+
+Note:  for  JDOLLAR-GDOLLAR  kindly   focus   GDollar  with  same   syntax  and  concepts.
+Note:  JDOLLAR-JAVA  is  simillar   to  java   concepts  only  thing
+is   the  syntax  will  change  eg)  <AList>  =>  ArrayList  in  java
