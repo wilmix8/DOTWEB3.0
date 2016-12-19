@@ -18,6 +18,7 @@ and  it   is  the   No:1   Programming Language .
 
 but  JDollar  is  the  wisdom  of  God;it  came by  God  Grace.
 
+JWEB  means  JDollar  Wilmix  for  External Business.
 
 When it was Invented? Who invented it?
 
