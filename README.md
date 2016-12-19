@@ -14,7 +14,7 @@ focused  on  remote webapplications, web   and GUI development".
 Meaning :  J$  stands    for   Success  and  prosperity.
 -------
 
-and  it   is  the   No:1   Programming Language .
+and  it   is ranked   as  Ranked Z'   Programming Language .
 
 but  JDollar  is  the  wisdom  of  God;it  came by  God  Grace.
 
