@@ -27,6 +27,8 @@ JDollar project took place from year 2009 to
 It is invented by wilmix jemin j at C/C++ P.L,JAVA P.L,  and  C# P.L.
 It uses JDollar-java runtime to run the programs.
 
+Using  JDollar  we can   easily   construct   Remoteserver  for   security  side  than  java.
+
 
 JDOLLAR SYNTAX FOR GUI
 ======================
