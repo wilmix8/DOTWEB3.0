@@ -168,5 +168,5 @@ i)  JDollar  -JDollarv.4
 j)  JDollar -CJAVA
 k)  JDollar-part3
 
- 
+ Note:  JDollar  is   only  used  in WALLET.
  
