@@ -23,8 +23,17 @@ JWEB  means  JDollar  Wilmix  for  External Business.
 When it was Invented? Who invented it?
 
 JDollar project took place from year 2009 to
-2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014  and  modified   in  java  and  C#  P.L
-It is invented by wilmix jemin j at C/C++ P.L,JAVA P.L,  and  C# P.L.
+2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014    and  C#  P.L
+It is invented by wilmix jemin j at C/C++ P.L,CH$,  and  C# P.L.
+And  CH$ is   the  main  reason for  creating   remoteserver  for  JDollar.
+
+What   will  happen  when you  create   remoteserver in  java?
+
+It will   take    2   years  to complete.
+
+JDollar   can   create a  remoteserver in   4 hours.
+
+
 It uses JDollar-java runtime to run the programs.
 
 Using  JDollar  we can   easily   construct   Remoteserver  for   security  side  than  java.
@@ -138,8 +147,10 @@ ABOUT  JDOLLAR version 1
 
 
 JDOLLAR  is  the  combination   of   CDollar,GDollar,JSTAR,JAVA,C/C++ OOPS,and  Advanced OOPS.
-JDollar  is   designed   to    be  used  by  C/C++,JAVA  ,CDollar  Professionals,
-GDollar  Professionals.
+
+JDollar  is   designed   to    be  used  by  C/C++,C#  ,CDollar  Professionals,
+GDollar  Professionals only.
+
 ie)  JDOllar  is  the  Most  standard ,powerful Programming Language.
 
 
