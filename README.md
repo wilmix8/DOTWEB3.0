@@ -24,8 +24,10 @@ When it was Invented? Who invented it?
 
 JDollar project took place from year 2009 to
 2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014    and  C#  P.L
-It is invented by wilmix jemin j at C/C++ P.L,CH$,  and  C# P.L.
+It is invented by wilmix jemin j at C/C++ P.L,CH$, java, and  C# P.L.
 And  CH$ is   the  main  reason for  creating   remoteserver  for  JDollar.
+
+but JDollar-cdollar  is   invented  in java p.l.
 
 What   will  happen  when you  create   remoteserver in  java?
 
