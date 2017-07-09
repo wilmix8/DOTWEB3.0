@@ -183,3 +183,4 @@ k)  JDollar-part3
 
  Note:  JDollar  is   only  used  in WALLET.
  
+Technology code: 12 ;since  it  has  12  pillars.
