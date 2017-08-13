@@ -14,9 +14,13 @@ focused  on  remote webapplications, web   and GUI development".
 Meaning :  J$  stands    for   Success  and  prosperity.
 -------
 
-and  it   is ranked   as  Ranked Z'   Programming Language .
+and  it   is ranked   as  Ranked Z ''''''''''  Powerful Programming Language .
 
-but  JDollar  is  the  wisdom  of  God;it  came by  God  Grace.
+and  1000   times   greater  than  JAVA/j2ee.
+
+but  JDollar  is  the  wisdom  of  God Jehovah 3rd  wisdom  of  wilmix  solomon
+
+at  year  2013 ;it  came by  God  Grace.
 
 JWEB  means  JDollar  Wilmix  for  External Business.
 
