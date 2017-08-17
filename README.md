@@ -14,9 +14,13 @@ focused  on  remote webapplications, web   and GUI development".
 Meaning :  J$  stands    for   Success  and  prosperity.
 -------
 
-and  it   is ranked   as  Ranked Z ''''''''''  Powerful Programming Language .
+and  it   is ranked   as   it is ranked 
 
-and  1000   times   greater  than  JAVA/j2ee.
+as WORLD Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+(infinitive power infinitive) and so,on.
+
+and JDollar(JWEB)  is  (infinitive power infinitive)   times   greater  than  JAVA/j2ee.
 
 but  JDollar  is  the  wisdom  of  God Jehovah 3rd  wisdom  of  wilmix  solomon
 
