@@ -148,6 +148,8 @@ ABOUT JDOLLAR(J$) Advantages:-
 
 22.   It  comes  with  JWEJ$   Editor.
 
+
+
 and  soon.
 
 
@@ -187,8 +189,13 @@ h)  JDOLLARMODULE9  with   DOTNET interaction.
 i)  JDollar  -JDollarv.4
   
 j)  JDollar -CJAVA
+
 k)  JDollar-part3
 
- Note:  JDollar  is   only  used  in WALLET.
+
+ Note:  JDollar  is   only  used  in WALLET and  Jdollar(JWEB)   is  focused  mainly  on  remotewebapplication.
+ ====
  
 Technology code: 12 ;since  it  has  12  pillars.
+
+
