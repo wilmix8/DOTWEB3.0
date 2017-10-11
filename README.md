@@ -168,7 +168,7 @@ ie) DOTWEB3.0   is  the  Most  standard ,powerful Programming Language.
 
 ie) DOTWEB3.0   has  12  pillars
 
-a)  CDOLLAR-JDOLLAR
+a)  CDOLLAR-DOTWEB3.0
 
 b)  GDOLLAR
 
@@ -186,7 +186,7 @@ g)  DOTWEB3.0 v.1  about  Domains  like  insurance,banking ,etc.
 
 h)  DOTWEB3.0 MODULE9  with   DOTNET interaction.
 
-i)  DOTWEB3.0   -JDollarv.4
+i)  DOTWEB3.0   -DOTWEB3.0v.4
   
 j)  DOTWEB3.0  -CJAVA
 
