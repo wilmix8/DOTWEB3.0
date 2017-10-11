@@ -1,17 +1,17 @@
-# JWEB
+# DOTWEB3.0 
 ========
  
-JDollar(J$)  is otherwise  known  as  JWEB.
+DOTWEB3.0  is otherwise  known  as  JWEB.
 
 
-Definition: "JDOLLAR(J$) is an interactive , System
+Definition: "DOTWEB3.0  is an interactive , System
 
  programming,  OOPS,  Multipurpose, Advanced   Technology  
 
 focused  on  remote webapplications, web   and GUI development".
 
 
-Meaning :  J$  stands    for   Success  and  prosperity.
+Meaning :  DOTWEB3.0  stands    for   Success ,security, and  prosperity.
 -------
 
 and  it   is ranked   as   it is ranked 
@@ -20,9 +20,9 @@ as WORLD Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 (infinitive power infinitive) and so,on.
 
-and JDollar(JWEB)  is  (infinitive power infinitive)   times   greater  than  JAVA/j2ee.
+and DOTWEB3.0   is  (infinitive power infinitive)   times   greater  than  JAVA/j2ee.
 
-but  JDollar  is  the  wisdom  of  God Jehovah 3rd  wisdom  of  wilmix  solomon
+but  DOTWEB3.0   is  the  wisdom  of  God Jehovah 3rd  wisdom  of  wilmix  solomon
 
 at  year  2013 ;it  came by  God  Grace.
 
@@ -30,7 +30,7 @@ JWEB  means  JDollar  Wilmix  for  External Business.
 
 When it was Invented? Who invented it?
 
-JDollar project took place from year 2009 to
+DOTWEB3.0  project took place from year 2009 to
 2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014    and  C#  P.L
 It is invented by wilmix jemin j at C/C++ P.L,CH$, java, and  C# P.L.
 And  CH$ is   the  main  reason for  creating   remoteserver  for  JDollar.
@@ -49,7 +49,7 @@ It uses JDollar-java runtime to run the programs.
 Using  JDollar  we can   easily   construct   Remoteserver  for   security  side  than  java.
 
 
-JDOLLAR SYNTAX FOR GUI
+DOTWEB3.0  SYNTAX FOR GUI
 ======================
 <Jdollar>
 
@@ -83,7 +83,7 @@ JWEB SYNTAX for Enterprise and WEB Development
 Note :  Extension:  .jwp
 
 
-JDOLLAR SYNTAX for web and mobile development:
+DOTWEB3.0 SYNTAX for web and mobile development:
 
 
 <JDOLLAR>
@@ -100,7 +100,7 @@ JDOLLAR SYNTAX for web and mobile development:
 
 Note: Extension :  .j$
 
-ABOUT JDOLLAR(J$) Advantages:-
+ABOUT DOTWEB3.0  Advantages:-
 =================================
 
 
@@ -120,7 +120,7 @@ ABOUT JDOLLAR(J$) Advantages:-
 
 8.       It  is  an  User   Friendly  Technology.
 
-9.       It  is   also    used in  GUI   design   like JAVA SWING,  and  JDollarGraphics .
+9.       It  is   also    used in  GUI   design   like JAVA SWING,  and  DOTWEB3.0 Graphics .
 
 10.   It  also    support   webservice.
 
@@ -154,19 +154,19 @@ and  soon.
 
 
 
-ABOUT  JDOLLAR version 1 
+ABOUT  DOTWEB3.0  version 1 
 ========================
 
 
-JDOLLAR  is  the  combination   of   CDollar,GDollar,JSTAR,JAVA,C/C++ OOPS,and  Advanced OOPS.
+DOTWEB3.0   is  the  combination   of   CDollar,GDollar,JSTAR,JAVA,C/C++ OOPS,and  Advanced OOPS.
 
-JDollar  is   designed   to    be  used  by  C/C++,C#  ,CDollar  Professionals,
+DOTWEB3.0   is   designed   to    be  used  by  C/C++,C#  ,CDollar  Professionals,
 GDollar  Professionals only.
 
-ie)  JDOllar  is  the  Most  standard ,powerful Programming Language.
+ie) DOTWEB3.0   is  the  Most  standard ,powerful Programming Language.
 
 
-ie)  JDollar  has  12  pillars
+ie) DOTWEB3.0   has  12  pillars
 
 a)  CDOLLAR-JDOLLAR
 
@@ -174,26 +174,26 @@ b)  GDOLLAR
 
 c) JSTAR
 
-e)  JDOLLAR-JAVA
+e)  DOTWEB3.0 -JAVA
 
 f) JAVA1.0 with  25  modules
 
 g)  Advanced Business
 
-h)  JDollar part2
+h)  DOTWEB3.0  part2
 
-g)  JDollarv.1  about  Domains  like  insurance,banking ,etc.
+g)  DOTWEB3.0 v.1  about  Domains  like  insurance,banking ,etc.
 
-h)  JDOLLARMODULE9  with   DOTNET interaction.
+h)  DOTWEB3.0 MODULE9  with   DOTNET interaction.
 
-i)  JDollar  -JDollarv.4
+i)  DOTWEB3.0   -JDollarv.4
   
-j)  JDollar -CJAVA
+j)  DOTWEB3.0  -CJAVA
 
-k)  JDollar-part3
+k)  DOTWEB3.0 -part3
 
 
- Note:  JDollar  is   only  used  in WALLET and  Jdollar(JWEB)   is  focused  mainly  on  remotewebapplication.
+ Note:  DOTWEB3.0   is   only  used  in WALLET and  DOTWEB3.0    is  focused  mainly  on  remotewebapplication.
  ====
  
 Technology code: 12 ;since  it  has  12  pillars.
