@@ -1,7 +1,7 @@
 # DOTWEB3.0 
 ========
  
-DOTWEB3.0  is otherwise  known  as  JWEB.
+
 
 
 Definition: "DOTWEB3.0  is an interactive , System
@@ -11,10 +11,10 @@ Definition: "DOTWEB3.0  is an interactive , System
 focused  on  remote webapplications, web   and GUI development".
 
 
-Meaning :  DOTWEB3.0  stands    for   Success ,security, and  prosperity.
+Meaning :  
 -------
 
-and  it   is ranked   as   it is ranked 
+DOTWEB3.0  stands    for   Success ,security, and  prosperity  and  it   is ranked   as   it is ranked 
 
 as WORLD Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -28,9 +28,10 @@ at  year  2013 ;it  came by  God  Grace.
 
 JWEB  means  JDollar  Wilmix  for  External Business.
 
+
 When it was Invented? Who invented it?
 
-DOTWEB3.0  project took place from year 2009 to
+JWEB  project took place from year 2009 to
 2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014    and  C#  P.L
 It is invented by wilmix jemin j at C/C++ P.L,CH$, java, and  C# P.L.
 And  CH$ is   the  main  reason for  creating   remoteserver  for  JDollar.
@@ -48,8 +49,60 @@ It uses JDollar-java runtime to run the programs.
 
 Using  JDollar  we can   easily   construct   Remoteserver  for   security  side  than  java.
 
+ABOUT  DOTWEB3.0 Programming  Language
+=======================================
 
-DOTWEB3.0  SYNTAX FOR GUI
+Like  DOTNET P.L , DOTWEB3.0   Programming  Language  consists  of   8  Programming  Langauges they  are  given  below.....
+
+
+a)  JWEB -J$ 
+    =========
+
+This  is  about  more  detail  about  J$part1,JWEBP2 ,JWEBP3.
+
+b)  JWEB ADVANCED BUSINESS
+     =====================
+
+
+This  is  about  more  detail  about  JWEB ADVANCED BUSINESS.
+
+c) CSHARP3.0
+   =========
+
+This  is  about  more  detail  about  JDollar with DOTNET.
+
+d)  JWEBAGENT
+    =========
+
+This  is  about  more  detail  about  JWEB CLOUD computing.
+
+e) DOTWEBSAUCER
+   ============
+
+
+This  is  about  more  detail  about  J$MEM,J$WEBMEM, Tabernacle,J$SAUCER , J$SLING,J$SCROLL,etc.
+
+
+
+f) JWEB-JAVA
+   =========
+
+
+This  is  about  more  detail  about  JWEB with  JDollar-JAVA
+
+g) OAKJAVA7
+   ========
+
+This  is  about  more  detail  about  JAVA7 (OAKJAVA7).
+
+
+h)  JAVA8 
+    ======
+
+This  is  about  more  detail  about  JAVA8
+
+
+DOTWEB3.0-J$  SYNTAX FOR GUI
 ======================
 <Jdollar>
 
@@ -100,7 +153,7 @@ DOTWEB3.0 SYNTAX for web and mobile development:
 
 Note: Extension :  .j$
 
-ABOUT DOTWEB3.0  Advantages:-
+ABOUT DOTWEB3.0-JWEB-J$  Advantages:-
 =================================
 
 
@@ -154,7 +207,7 @@ and  soon.
 
 
 
-ABOUT  DOTWEB3.0  version 1 
+ABOUT  DOTWEB3.0-JWEB-J$  version 1 
 ========================
 
 
@@ -191,6 +244,10 @@ i)  DOTWEB3.0   -DOTWEB3.0v.4
 j)  DOTWEB3.0  -CJAVA
 
 k)  DOTWEB3.0 -part3
+
+
+
+
 
 
  Note:  DOTWEB3.0   is   only  used  in WALLET and  DOTWEB3.0    is  focused  mainly  on  remotewebapplication.
