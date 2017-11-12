@@ -44,8 +44,8 @@ eg) J$MEM , J$WEBMEM are the examples...
 
 When it was Invented? Who invented it?
 
-JWEB  project took place from year 2009 to
-2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014    and  C#  P.L
+JWEB  project took place from year 2014 to  2017. And it is first  invented at year 2014.
+And modified in C/C++ and  C#  P.L And completly invented at year 2017.
 It is invented by wilmix jemin j at C/C++ P.L,CH$, java, and  C# P.L.
 And  CH$ is   the  main  reason for  creating   remoteserver  for  JDollar.
 
