@@ -23,11 +23,11 @@ as WORLD Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 (infinitive power infinitive) and so,on.
 
-and DOTWEB3.0   is  (infinitive power infinitive)   times   greater  than  JAVA/j2ee.
+ and DOTWEB3.0   is  (infinitive power infinitive) *  (infinitive power infinitive)  times   greater  than  JAVA/j2ee.
 
-but  DOTWEB3.0   is  the  wisdom  of  God Jehovah 3rd  wisdom  of  wilmix  solomon
+but  DOTWEB3.0   is  the  wisdom  of  God Jehovah 4th  wisdom  of  wilmix  solomon
 
-at  year  2013 ;it  came by  God  Grace.
+at  year  2014 ;it  came by  God  Grace.
 
 JWEB  means  JDollar  Wilmix  for  External Business.
 
