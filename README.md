@@ -4,7 +4,10 @@
 
 
 
-Definition: "DOTWEB3.0  is an interactive , System
+ Definition:
+ ===========
+ 
+ "DOTWEB3.0  is an JX-MEM RemoteWebapplication(TYPE-3) ,interactive  System
 
  programming,  OOPS,  Multipurpose, Advanced   Technology  
 
@@ -27,6 +30,16 @@ but  DOTWEB3.0   is  the  wisdom  of  God Jehovah 3rd  wisdom  of  wilmix  solom
 at  year  2013 ;it  came by  God  Grace.
 
 JWEB  means  JDollar  Wilmix  for  External Business.
+
+What  do you meant  by JX-MEM RemoteWebapplication?
+===================================================
+
+
+It is the remotewebapplication using Vast Memory management
+
+using JDollar(JWEB) Technology...
+
+eg) J$MEM , J$WEBMEM are the examples...
 
 
 When it was Invented? Who invented it?
