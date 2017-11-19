@@ -31,6 +31,14 @@ at  year  2014 ;it  came by  God  Grace.
 
 JWEB  means  JDollar  Wilmix  for  External Business.
 
+
+SLING   is  the  subprogramming  language   for  DOTWEB3.0.
+
+SLING is powerful Programming Language invented in JDOLLAR(JWEB-JSLASH) by wilmix jemin j for
+
+Remotewebappplication at year 2016.
+
+
 What  do you meant  by JX-MEM RemoteWebapplication?
 ===================================================
 
