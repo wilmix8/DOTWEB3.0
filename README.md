@@ -2,6 +2,9 @@
 =============
 
 
+DOTWEB3.0   yields   to SOLOMON RING the  advanced  Technology   ,  which is invented  by  wilmix  jemin j.
+
+DOTWEB3.0   is   a  First Wilmix  solomon  Wisdom  by  God  Jehovah   to  Wilmix  jemin j.
 
 
  Definition:
@@ -25,7 +28,7 @@ as WORLD Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
  and DOTWEB3.0   is  (infinitive power infinitive) *  (infinitive power infinitive)  times   greater  than  JAVA/j2ee.
 
-but  DOTWEB3.0   is  the  wisdom  of  God Jehovah 4th  wisdom  of  wilmix  solomon
+but  DOTWEB3.0   is  the  wisdom  of  God Jehovah IST  wisdom  of  wilmix  solomon
 
 at  year  2014 ;it  came by  God  Grace.
 
@@ -283,7 +286,7 @@ k)  DOTWEB3.0 -part3
 
 
 
- Note:  DOTWEB3.0   is   only  used  in WALLET and  DOTWEB3.0    is  focused  mainly  on JX-MEM RemoteWebapplication-TYPE-3.
+ Note:  DOTWEB3.0   is   only  used  in J$WALLET,JITZMobiles and  DOTWEB3.0    is  focused  mainly  on JX-MEM RemoteWebapplication-TYPE-3.
  ====
  
 Technology code: 12 ;since  it  has  12  pillars.
