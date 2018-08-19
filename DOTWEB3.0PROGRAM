@@ -1,0 +1,85 @@
+JDOLLAR-Module9
+===============
+
+SYNTAX  for  Logic - JDollar
+------------------------------------------
+
+
+<DOTWEB3>
+
+@JRemote
+
+
+
+
+
+
+
+<%
+
+<!  Logic  of  DOTWEB3.0 program  !>
+%>
+
+
+</DOTWEB3>
+
+
+
+
+DOTWeb3.0  Advanced   Concepts
+=====================
+
+Like  CDollar   , JDollar   also  has   same   Advanced  Concepts.....
+
+Program-1:
+=========
+
+
+<DOTWEB3>
+
+<IMPORT> 
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+          public void main()
+        {
+ 
+ LArray root <NEW> LArray("root");
+ 
+ <AList>  ar <NEW>  <AList>();
+ 
+ 
+ for  (int  i=0;i<=1000;i++)
+ 
+ ar.add(i);
+ 
+ root.add("wilmix");
+ root.add("jemin");
+ root.add("shalom");
+ root.add("1010");
+ root.add("101");
+ root.add("201");
+ root.add(ar.StringConvert());
+ root.add("100000000");
+ //print the tree's size and contents
+ 
+ root.printTree();
+
+ 
+}
+
+
+}
+
+
+
+
+Note:  Module2   for  Jdollar  is   called  as  JDollar2   also  has   same  Advanced concepts
+
+simillar  to  CDollar.
+
+
+Note:  for  DOTWEB3.0-GDOLLAR  kindly   focus   GDollar  with  same   syntax  and  concepts.
+Note:  DOTWEB3.0-JAVA  is  simillar   to  java   concepts  only  thing
+is   the  syntax  will  change  eg)  <AList>  =>  ArrayList  in  java
