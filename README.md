@@ -32,12 +32,12 @@ but  DOTWEB3.0   is  the  wisdom  of  God Jehovah IST  wisdom  of  wilmix  solom
 
 at  year  2014 ;it  came by  God  Grace.
 
-JWEB  means  JDollar  Wilmix  for  External Business.
+JWEB  means  Jemin  Wilmix  for  External Business.
 
 
 SLING   is  the  subprogramming  language   for  DOTWEB3.0.
 
-SLING is powerful Programming Language invented in JDOLLAR(JWEB-JSLASH) by wilmix jemin j for
+SLING is powerful Programming Language invented in JWEB-JSLASH by wilmix jemin j for
 
 Remotewebappplication at year 2016.
 
@@ -48,7 +48,7 @@ What  do you meant  by JX-MEM RemoteWebapplication?
 
 It is the remotewebapplication using Vast Memory management
 
-using JDollar(JWEB) Technology...
+using JWEB Technology...
 
 eg) J$MEM , J$WEBMEM are the examples...
 
@@ -60,18 +60,18 @@ And modified in C/C++ and  C#  P.L And completly invented at year 2017.
 It is invented by wilmix jemin j at C/C++ P.L,CH$, java, and  C# P.L.
 And  CH$ is   the  main  reason for  creating   remoteserver  for  JDollar.
 
-but JDollar-cdollar  is   invented  in java p.l.
+but DOTWEB3.0-cdollar  is   invented  in java p.l.
 
 What   will  happen  when you  create   remoteserver in  java?
 
 It will   take    2   years  to complete.
 
-JDollar   can   create a  remoteserver in   4 hours.
+DOTWEB3.0   can   create a  remoteserver in   4 hours.
 
 
-It uses JDollar-java runtime to run the programs.
+It uses DOTWEB3.0 -java runtime to run the programs.
 
-Using  JDollar  we can   easily   construct   Remoteserver  for   security  side  than  java.
+Using  DOTWEB3.0   we can   easily   construct   Remoteserver  for   security  purpose  than  java/j2ee.
 
 ABOUT  DOTWEB3.0 Programming  Language
 =======================================
@@ -83,7 +83,7 @@ a)  JWEB -J$
 
 
 
-This  is  about  more  detail  about  J$part1,JWEBP2 ,JWEBP3.
+This  is  about  more  detail  about  JWEBpart1,JWEBP2 ,JWEBP3.
 
 b)  JWEB ADVANCED BUSINESS
 
@@ -116,7 +116,7 @@ f) JWEB-JAVA
 
 
 
-This  is  about  more  detail  about  JWEB with  JDollar-JAVA
+This  is  about  more  detail  about  JWEB with  JWEB-JAVA
 
 g) OAKJAVA7
 
@@ -133,63 +133,30 @@ This  is  about  more  detail  about  JAVA8
 
 =============================================================
 
-    DOTWEB3.0-J$
+    DOTWEB3.0
 
 =============================================================
 
-
-DOTWEB3.0-J$  SYNTAX FOR GUI
-======================
-<Jdollar>
-
-<Serialize>
-
-<code> 
-
-<!  OOPS  CODE  !>
-
-</code>
-
-</Jdollar>
-
-Note: Extension :  .j$
 
 
 JWEB SYNTAX for Enterprise and WEB Development
 ==========================================
 
 
-<JDWEB>
+<DOTWEB3>
 
 <PACK>
 
 <%
-<! JDollar  Web  Code  !>
+<! DOTWEB3  Web  Code  !>
 
 %>
-</JDWEB>
+</DOTWEB3>
 
 Note :  Extension:  .jwp
 
 
-DOTWEB3.0 SYNTAX for web and mobile development:
-
-
-<JDOLLAR>
-
-@JRemote
-
-<%
-
-<!  OOPS  code  !>
-
- %>
-</JDOLLAR>
-
-
-Note: Extension :  .j$
-
-ABOUT DOTWEB3.0-JWEB-J$  Advantages:-
+ABOUT DOTWEB3.0-JWEB Advantages:-
 =================================
 
 
@@ -237,13 +204,14 @@ ABOUT DOTWEB3.0-JWEB-J$  Advantages:-
 
 22.   It  comes  with  JWEJ$   Editor.
 
+23.  Used  a  s   AI, Saucer  and  microservices  oriented  technology.
 
 
 and  soon.
 
 
 
-ABOUT  DOTWEB3.0-JWEB-J$  version 1 
+ABOUT  DOTWEB3.0-JWEB  version 1 
 ========================
 
 
