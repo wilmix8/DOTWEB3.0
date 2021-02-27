@@ -254,7 +254,7 @@ k)  DOTWEB3.0 -part3
 
 
 
- Note:  DOTWEB3.0   is   only  used  in J$WALLET,JITZMobiles and  DOTWEB3.0    is  focused  mainly  on JX-MEM RemoteWebapplication-TYPE-3.
+ Note:  DOTWEB3.0   is   only  used  in WALLET,Mobiles and  DOTWEB3.0    is  focused  mainly  on JX-MEM RemoteWebapplication-TYPE-3.
  ====
  
 Technology code: 12 ;since  it  has  12  pillars.
